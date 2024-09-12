@@ -43,3 +43,10 @@
 
 <p align="left">I’m a passionate Flutter Developer with a strong background in Computer Science and Artificial Intelligence. Currently pursuing my degree at the Faculty of Computer Science and Artificial Intelligence, I’m driven by my love for coding and constantly honing my skills in mobile development and AI technologies.</p>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Sara-Salem-FCI/output/snake.svg" alt="Snake animation" />
+
+###
